@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dex-movie/static/css/main.3d61c51a.chunk.css",
+    "main.js": "/dex-movie/static/js/main.12d62db4.chunk.js",
+    "main.js.map": "/dex-movie/static/js/main.12d62db4.chunk.js.map",
+    "runtime-main.js": "/dex-movie/static/js/runtime-main.7ca7cbb3.js",
+    "runtime-main.js.map": "/dex-movie/static/js/runtime-main.7ca7cbb3.js.map",
+    "static/js/2.4f2e8d0f.chunk.js": "/dex-movie/static/js/2.4f2e8d0f.chunk.js",
+    "static/js/2.4f2e8d0f.chunk.js.map": "/dex-movie/static/js/2.4f2e8d0f.chunk.js.map",
+    "index.html": "/dex-movie/index.html",
+    "precache-manifest.cb4d738c798f247f524bcbb2605915a1.js": "/dex-movie/precache-manifest.cb4d738c798f247f524bcbb2605915a1.js",
+    "service-worker.js": "/dex-movie/service-worker.js",
+    "static/css/main.3d61c51a.chunk.css.map": "/dex-movie/static/css/main.3d61c51a.chunk.css.map",
+    "static/js/2.4f2e8d0f.chunk.js.LICENSE.txt": "/dex-movie/static/js/2.4f2e8d0f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/dex-movie/static/media/bgd.c0dc36e8.jpg",
+    "static/media/dex-logo.png": "/dex-movie/static/media/dex-logo.2c8b3b9c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ca7cbb3.js",
+    "static/js/2.4f2e8d0f.chunk.js",
+    "static/css/main.3d61c51a.chunk.css",
+    "static/js/main.12d62db4.chunk.js"
+  ]
+}
