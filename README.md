@@ -1,3 +1,5 @@
+# Aplikacija je u izgradnji | nema potpunu funkcionalnost
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
